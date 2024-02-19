@@ -9,3 +9,8 @@
 - 📫 How to reach me: meganwanjiru10@gmail.com
 - 📑 Know about my experiences https://www.linkedin.com/in/megan-wanjiru/
 - ⚡ Fun fact: I find beauty in both numbers and brushstrokes.
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,)](https://skillicons.dev)
+
+
